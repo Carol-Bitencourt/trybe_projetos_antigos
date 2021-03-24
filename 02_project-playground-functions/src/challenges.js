@@ -1,4 +1,5 @@
-// Segundo projeto! #VQV
+// Segundo projeto!
+
 // Desafio 1
 
 function compareTrue(param1, param2) {
